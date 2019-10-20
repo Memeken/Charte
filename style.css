@@ -1,0 +1,29 @@
+body{
+	background: moccasin;
+}
+
+h2{
+	font-family: 'Zhi Mang Xing', cursive;
+}
+
+li{
+	font-family: 'Indie Flower', cursive;
+}
+
+#conteneur{
+	width: 100%;
+	height: 400px;  	
+}
+
+#conteneur .block {
+    display: inline-block;  /* Utile */
+    width: 400px;
+    height: 330px;
+    padding: 10px;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
